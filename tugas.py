@@ -100,3 +100,6 @@ for i, j in data_panen.items():
         print(f"{nma_lks} Memerlukan Perhatian Khusus \n")
     else :
         print(f"{nma_lks} Kondisi Baik \n")
+
+
+print("Nama : Destiani \n Kelas : EE \n NRP : 152023201")
